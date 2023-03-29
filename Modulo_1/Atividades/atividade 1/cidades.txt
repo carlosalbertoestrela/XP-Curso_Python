@@ -1,0 +1,5 @@
+SP; Sao Paulo; 11895893
+RJ; Rio de Janeiro; 6453682
+BA; Salvador; 2902927
+DF; Brasilia; 2902927
+CE; Fortaleza; 2571896
